@@ -2,6 +2,12 @@
 A simple variant that provides some English translations missing from the game.
 
 Release versioning follows that of ElonaPlus.
+
+# Known issues
+v2.01.1:
+1) All kinds of cooldowns are broken, resulting in unintented ability to spam statues etc.
+2) Pet HP bars are broken.
+
 # Installation
 Download the current version ElonaPlusEN.exe & scene2.hsp from [Releases](https://github.com/Cakku/ElonaPlusEN/releases) and copy them over corresponding Elona Plus installation.
 
